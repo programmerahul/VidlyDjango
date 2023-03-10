@@ -3,7 +3,7 @@ astroid==2.15.0
 certifi==2022.12.7
 charset-normalizer==3.1.0
 dill==0.3.6
-Django==4.1.7
+Django==3.2.18
 django-tastypie==0.14.5
 docopt==0.6.2
 gunicorn==20.1.0
@@ -18,6 +18,7 @@ pylint-django==2.5.3
 pylint-plugin-utils==0.7
 python-dateutil==2.8.2
 python-mimeparse==1.6.0
+pytz==2022.7.1
 requests==2.28.2
 six==1.16.0
 sqlparse==0.4.3
